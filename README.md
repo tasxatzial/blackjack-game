@@ -4,10 +4,6 @@
 
 The game of [Blackjack](https://en.wikipedia.org/wiki/Blackjack).
 
-## Language
-
-Python.
-
 ## Rules
 
 ### Setup
@@ -32,4 +28,8 @@ with the higher sum wins. Dealer wins ties.
 
 ## Run
 
-The game runs in [Codesculptor](http://www.codeskulptor.org/) (python 2) or in [Codesculptor](https://py3.codeskulptor.org/) (python 3)
+The game runs in [Codesculptor](http://www.codeskulptor.org/) (python 2) or [Codesculptor](https://py3.codeskulptor.org/) (python 3)
+
+## Screenshots
+
+See [screenshots](screenshots/).
